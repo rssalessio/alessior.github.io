@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science Engineering, University of Genoa, 2014
+* M.S. in Automation and Control Engineering, Polytechnic University of Milan, 2016
+* Diploma of Graduate Studies in Innovation, Alta Scuola Politecnica, 2017
+* Ph.D student in Secure Machine Learning and Control, KTH Royal Institute of Technology, '22/'23 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/18 - 08/18: Strategy Analyst
+  * Accenture Strategy, Milan
+  * Duties:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 02/17 - 12/17: Robotics Engineering Intern
+  * Rapyuta Robotics, Zurich - Tokyo
+  * Duties:
+
+* Fall 2013: Robotics Engineering Intern
+  * MACLAB, University of Genoa
+  * Duties included: 
+  * Supervisor: Prof. Cannata
   
 Skills
 ======
