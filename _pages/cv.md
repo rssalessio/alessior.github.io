@@ -13,32 +13,17 @@ Education
 ======
 * B.S. in Computer Science Engineering, University of Genoa, 2014
 * M.S. in Automation and Control Engineering, Polytechnic University of Milan, 2016
+  * Exchange student, KTH Royal Institute of Technology, Fall 2015
 * Diploma of Graduate Studies in Innovation, Alta Scuola Politecnica, 2017
 * Ph.D student in Secure Machine Learning and Control, KTH Royal Institute of Technology, '22/'23 (expected)
 
 Work experience
 ======
-* 01/18 - 08/18: Strategy Analyst
-  * Accenture Strategy, Milan
-  * Duties:
-
-* 02/17 - 12/17: Robotics Engineering Intern
-  * Rapyuta Robotics, Zurich - Tokyo
-  * Duties:
-
-* Fall 2013: Robotics Engineering Intern
-  * MACLAB, University of Genoa
-  * Duties included: 
+* 01/18 - 08/18: Strategy Analyst, Accenture Strategy, Milan
+* 02/17 - 12/17: Robotics Engineering Intern, Rapyuta Robotics, Zurich - Tokyo
+* Fall 2013: Robotics Engineering Intern, MACLAB, University of Genoa
   * Supervisor: Prof. Cannata
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -57,6 +42,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
   
 Service and leadership
 ======
