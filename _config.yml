@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Alessio R."
+  avatar           : "russo_pic.jpg"
+  bio              : "PhD Student in Secure Machine Learning and Automatic Control"
   location         : "Stockholm, Sweden"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hsqzAkQAAAAJ"
