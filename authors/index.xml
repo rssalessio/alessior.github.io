@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Alessio R.</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Alessio R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a &lt;strong&gt;PhD Student in Secure Reinforcement Learning&lt;/strong&gt; at the &lt;a href=&#34;https://slc.eecs.kth.se&#34; target=&#34;_blank&#34;&gt;KTH Statistical Learning and Control Group&lt;/a&gt;, under the supervision of &lt;a href=&#34;https://www.kth.se/profile/alepro&#34; target=&#34;_blank&#34;&gt;Prof. Alexandre Proutiere&lt;/a&gt;. My research interests include adaptive control, reinforcement learning and security of stochastic dynamical systems.&lt;/p&gt;
+
+&lt;p&gt;I am an active member and coordinator of the &lt;a href=&#34;https://slc.eecs.kth.se&#34; target=&#34;_blank&#34;&gt;Statistical Learning Group&lt;/a&gt;, which aims at improving the theory of Statistical learning and control theory.&lt;/p&gt;
+
+&lt;p&gt;Apart from my academic duties, I also do volunteering. At the moment I&amp;rsquo;m currently helping to organise &lt;a href=&#34;https://armada.nu/&#34; target=&#34;_blank&#34;&gt;THS Armada 2019&lt;/a&gt;, and I look forward to new adventures.&lt;/p&gt;
+
+&lt;p&gt;I have many interests: &lt;em&gt;volunteering, reading thrillers, traveling, learning new languages, teaching and mentoring, making origami, volleyball/football, watching movies/tv-series/formula 1/moto-gp/, cooking, &amp;hellip;&lt;/em&gt; the list is very long, but, essentially, &lt;strong&gt;I&amp;rsquo;m very curious&lt;/strong&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
